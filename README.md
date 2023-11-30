@@ -6,3 +6,4 @@ Aplikasi wisata Android Studio menyajikan pengalaman lengkap dengan fitur pencar
 3.	ZAHRA HUMAIRA SALSABILA-22050974064
 4.	KHALIMATUS SA’DIYAH-22050974080
 # URL WEB PRODI
+https://pendidikan-ti.ft.unesa.ac.id/

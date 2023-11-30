@@ -8,6 +8,8 @@ Aplikasi wisata memiliki fungsi utama dalam menyediakan informasi mendalam menge
 3.	ZAHRA HUMAIRA SALSABILA-22050974064
 4.	KHALIMATUS SA’DIYAH-22050974080
 # URL WEB PRODI
-https://pendidikan-ti.ft.unesa.ac.id/
+https://pendidikan-ti.ft.unesa.ac.id
+https://unesa.ac.id
+https://ft.unesa.ac.id 
 # Poster
 ![Gambar WhatsApp 2023-11-30 pukul 20 18 43_78869d43](https://github.com/CakrawalaMegaNanda/Wisata/assets/152386392/d9a2b11e-b25c-467a-96bc-09bafe35b525)

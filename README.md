@@ -1,7 +1,7 @@
 # Deskripsi Wisata
-Aplikasi wisata memiliki fungsi utama dalam menyediakan informasi mendalam mengenai destinasi wisata, memberikan peta interaktif dan navigasi untuk memandu perjalanan, serta memfasilitasi pencarian dan pemesanan akomodasi beserta transportasi. Selain itu, aplikasi ini membantu pengguna merencanakan itinerari perjalanan dengan integrasi kalender dan notifikasi, serta memberikan akses kepada ulasan dan rating dari wisatawan sebelumnya untuk memudahkan pengambilan keputusan selama perjalanan.
+Aplikasi wisata Android Studio menyajikan pengalaman lengkap dengan fitur pencarian, informasi destinasi, navigasi, dan ulasan pengguna. Dengan desain yang responsif dan integrasi media sosial, pengguna dapat dengan mudah merencanakan dan berbagi pengalaman wisata mereka. Notifikasi terkini dan informasi praktis menambah nilai aplikasi ini, membuatnya menjadi panduan yang komprehensif dan efektif bagi para wisatawan.
 # Fungsi-Fungsi Aplikasi
-
+Aplikasi wisata memiliki fungsi utama dalam menyediakan informasi mendalam mengenai destinasi wisata, memberikan peta interaktif dan navigasi untuk memandu perjalanan, serta memfasilitasi pencarian dan pemesanan akomodasi beserta transportasi. Selain itu, aplikasi ini membantu pengguna merencanakan itinerari perjalanan dengan integrasi kalender dan notifikasi, serta memberikan akses kepada ulasan dan rating dari wisatawan sebelumnya untuk memudahkan pengambilan keputusan selama perjalanan.
 # Nama Anggota
 1.	CAKRAWALA MEGA NANDA-22050974050
 2.	IGNESIA DEWY YULIA IZZATI-22050974063
